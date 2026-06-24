@@ -1,5 +1,5 @@
 # about me
-incoming swe intern @ jump trading (summer 2026). third year cs @ southampton.
+incoming swe intern @ **jump trading** (summer 2026). third year cs @ southampton.
 
 # experience
 - **software & data intern @ kiki** (nov. 25 - apr. 26): built an evaluation pipeline that enabled automated testing of the main llm pipeline, replacing eyeballed checks with quantitative metrics that surfaced regressions before release
