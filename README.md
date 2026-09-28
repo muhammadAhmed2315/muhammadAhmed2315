@@ -1,5 +1,5 @@
 # about me
-cs masters @ warwick.
+cs masters @ warwick
 
 # experience
 - **swe intern @ jump trading** (jun. 26 - sep. 26): built two pages for an internal monitoring application used across the firm, and designed and deployed an mcp server end-to-end for the monitoring application
