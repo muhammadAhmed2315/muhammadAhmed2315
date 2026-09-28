@@ -9,7 +9,7 @@ cs masters @ warwick
 - **react developer @ tabletop** (mar. 25 - may. 25): built an internal react tool that replaced excel-based inventory tracking for 1,000+ cloud-connected devices, adding remote management and per-device change tracking
 
 # education
-cs @ university of warwick (sep. 26 - jun. 27)
-cs @ university of southampton (sep. 23 - jun. 26)
+- cs @ university of warwick (sep. 26 - jun. 27)
+- cs @ university of southampton (sep. 23 - jun. 26)
 
 
